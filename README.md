@@ -144,6 +144,14 @@ Humanizer follows the sample's rhythm, word choice, punctuation, and deliberate 
 >
 > I would go back, but in spring and with better shoes. Lisbon does not bend over backward to make things easy for you. I think I liked that, even when my legs disagreed.
 
+## Indonesian version
+
+`SKILL.id.md` is the Indonesian edition of the skill. It keeps the same 35 numbered patterns and the same rewrite process, but its watch words and examples follow how AI writing sounds in Indonesian: `merupakan` in place of `adalah`, sales phrases such as `terletak di jantung kota`, vague sources such as `menurut para ahli`, and rotating epithets such as `sang penulis`.
+
+It also adds a short section, "Hal khas bahasa Indonesia", for issues the English list does not cover: consistent address (`Anda` or `kamu`), consistent formal or casual register, `di` as a prefix versus a preposition, stacked affixes such as `melakukan pengecekan`, stacked connectors such as `dimana` and `yang mana`, number formatting, and stiff translations from English.
+
+Load `SKILL.id.md` the same way you load `SKILL.md`. Use it for Indonesian text, and use `SKILL.md` for English text.
+
 ## Sources
 
 - [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) is the source for the pattern list.
